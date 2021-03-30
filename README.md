@@ -18,7 +18,7 @@
 [<img align = "left" src = "Assets\xcode.png" alt = "Xcode" width = 30px height = 30px />][faiqueali017]
 [<img align = "left" src = "Assets\swift.png" alt = "Swift" width = 30px height = 30px/>][faiqueali017]
 
-[<img align = "left" src = "Assets\python.png" alt = "Python" width = 30px height = 30px/>][faiqueali017]
+[<img align = "left" src = "Assets\python.png" alt = "Python" width = 36px height = 30px/>][faiqueali017]
 [<img align = "left" src = "Assets\anaconda.png" alt = "Anaconda IDE" width = 30px height = 30px/>][faiqueali017]
 
 [<img align = "left" src = "Assets\vscode.png" alt = "VScode" width = 30px height = 30px/>][faiqueali017]
@@ -26,7 +26,7 @@
 [<img align = "left" src = "Assets\database.png" alt = "Database" width = 30px height = 30px/>][faiqueali017]
 [<img align = "left" src = "Assets\firebase.png" alt = "Firebase" width = 30px height = 30px/>][faiqueali017]
 
-[<img align = "left" src = "Assets\slack.png" alt = "Slack" width = 30px height = 30px/>][faiqueali017]
+[<img align = "left" src = "Assets\slack.png" alt = "Slack" width = 34px height = 30px/>][faiqueali017]
 [<img align = "left" src = "Assets\jira.png" alt = "Jira" width = 30px height = 30px/>][faiqueali017]
 [<img align = "left" src = "Assets\postman.png" alt = "Postman" width = 30px height = 30px/>][faiqueali017]
 
