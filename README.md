@@ -15,13 +15,10 @@
 <br />
 
 ### Languages and Tools:
-<html>
-<body>
-<img src = "Assets\xcode.jpg" alt = "Xcode" width = 30px height = 30px>
-<img src = "Assets\swift-programming-language.png" alt = "Swift" width = 30px height = 30px>
-<img src = "Assets\swift-programming-language.png" alt = "Swift" width = 30px height = 30px>
-</body>
-</html>
+[<img align = "left" src = "Assets\xcode.jpg" alt = "Xcode" width = 30px height = 30px />][faiqueali017]
+[<img align = "left" src = "Assets\swift-programming-language.png" alt = "Swift" width = 30px height = 30px/>][faiqueali017]
+[<img align = "left" src = "Assets\python-programming-lang.png" alt = "Python" width = 30px height = 30px/>][faiqueali017]
+
 
 
 <br/>
