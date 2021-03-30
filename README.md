@@ -9,27 +9,22 @@
 - ⚡ Fun fact: I love to read non-fictional books and play checkers
 
 ### Connect with me:
-[<img align="left" alt="faiqueali017 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="faiqueali017 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="faiqueali017 | LinkedIn" width="30px" height="30px" src="Assets\linkedin.png" />][linkedin]
+[<img align="left" alt="faiqueali017 | Instagram" width="30px" height="30px" src="Assets\instagram.png" />][instagram]
 
 <br />
 
 ### Languages and Tools:
 [<img align = "left" src = "Assets\xcode.png" alt = "Xcode" width = 30px height = 30px />][faiqueali017]
 [<img align = "left" src = "Assets\swift.png" alt = "Swift" width = 30px height = 30px/>][faiqueali017]
-
 [<img align = "left" src = "Assets\python.png" alt = "Python" width = 36px height = 30px/>][faiqueali017]
 [<img align = "left" src = "Assets\anaconda.png" alt = "Anaconda IDE" width = 30px height = 30px/>][faiqueali017]
-
 [<img align = "left" src = "Assets\vscode.png" alt = "VScode" width = 30px height = 30px/>][faiqueali017]
-
 [<img align = "left" src = "Assets\database.png" alt = "Database" width = 30px height = 30px/>][faiqueali017]
 [<img align = "left" src = "Assets\firebase.png" alt = "Firebase" width = 30px height = 30px/>][faiqueali017]
-
 [<img align = "left" src = "Assets\slack.png" alt = "Slack" width = 34px height = 30px/>][faiqueali017]
 [<img align = "left" src = "Assets\jira.png" alt = "Jira" width = 30px height = 30px/>][faiqueali017]
 [<img align = "left" src = "Assets\postman.png" alt = "Postman" width = 30px height = 30px/>][faiqueali017]
-
 [<img align = "left" src = "Assets\git.png" alt = "Git" width = 30px height = 30px/>][faiqueali017]
 [<img align = "left" src = "Assets\github.png" alt = "Github" width = 32px height = 30px/>][faiqueali017]
 [<img align = "left" src = "Assets\terminal.png" alt = "Terminal" width = 30px height = 30px/>][faiqueali017]
