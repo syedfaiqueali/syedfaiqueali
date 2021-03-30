@@ -10,7 +10,7 @@
 
 ### Connect with me:
 [<img align="left" alt="faiqueali017 | LinkedIn" width="30px" height="30px" src="Assets\linkedin.png" />][linkedin]
-[<img align="left" alt="faiqueali017 | Instagram" width="38px" height="30px" src="Assets\instagram.png" />][instagram]
+[<img align="left" alt="faiqueali017 | Instagram" width="30px" height="30px" src="Assets\instagram.png" />][instagram]
 
 <br />
 
