@@ -15,10 +15,10 @@
 <br />
 
 ### Languages and Tools:
-[<img align = "left" src = "Assets\xcode.jpg" alt = "Xcode" width = 30px height = 30px />][faiqueali017]
-[<img align = "left" src = "Assets\swift-programming-language.png" alt = "Swift" width = 30px height = 30px/>][faiqueali017]
+[<img align = "left" src = "Assets\xcode.png" alt = "Xcode" width = 30px height = 30px />][faiqueali017]
+[<img align = "left" src = "Assets\swift.png" alt = "Swift" width = 30px height = 30px/>][faiqueali017]
 
-[<img align = "left" src = "Assets\python-programming-lang.png" alt = "Python" width = 30px height = 30px/>][faiqueali017]
+[<img align = "left" src = "Assets\python.png" alt = "Python" width = 30px height = 30px/>][faiqueali017]
 [<img align = "left" src = "Assets\anaconda.png" alt = "Anaconda IDE" width = 30px height = 30px/>][faiqueali017]
 
 [<img align = "left" src = "Assets\vscode.png" alt = "VScode" width = 30px height = 30px/>][faiqueali017]
@@ -26,20 +26,13 @@
 [<img align = "left" src = "Assets\database.png" alt = "Database" width = 30px height = 30px/>][faiqueali017]
 [<img align = "left" src = "Assets\firebase.png" alt = "Firebase" width = 30px height = 30px/>][faiqueali017]
 
-[<img align = "left" src = "Assets\CoreData.jpg" alt = "Coredata" width = 30px height = 30px/>][faiqueali017]
-[<img align = "left" src = "Assets\cloud-services.jpg" alt = "Cloud Services" width = 30px height = 30px/>][faiqueali017]
-
 [<img align = "left" src = "Assets\slack.png" alt = "Slack" width = 30px height = 30px/>][faiqueali017]
-[<img align = "left" src = "Assets\jira.jpg" alt = "Jira" width = 30px height = 30px/>][faiqueali017]
+[<img align = "left" src = "Assets\jira.png" alt = "Jira" width = 30px height = 30px/>][faiqueali017]
 [<img align = "left" src = "Assets\postman.png" alt = "Postman" width = 30px height = 30px/>][faiqueali017]
-[<img align = "left" src = "Assets\charles.jpg" alt = "Charles" width = 30px height = 30px/>][faiqueali017]
-
 
 [<img align = "left" src = "Assets\git.png" alt = "Git" width = 30px height = 30px/>][faiqueali017]
 [<img align = "left" src = "Assets\github.png" alt = "Github" width = 32px height = 30px/>][faiqueali017]
 [<img align = "left" src = "Assets\terminal.png" alt = "Terminal" width = 30px height = 30px/>][faiqueali017]
-
-
 
 <br/>
 <br/>
