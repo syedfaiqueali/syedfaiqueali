@@ -35,7 +35,7 @@
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
 ✔ I’m currently learning **Data Analytics** & **Python-Django**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Remote Sensing**<br>
+✔ I’m looking for help for learning **Artificial Neural Network**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact: I love to read non-fictional books and play checkers<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
