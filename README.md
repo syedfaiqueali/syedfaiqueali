@@ -51,6 +51,7 @@
 [![Django Badge](https://img.shields.io/badge/-Django-black?style=flat&logo=Django&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 [![NumPy Badge](https://img.shields.io/badge/-NumPy-black?style=flat&logo=NumPy&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 [![Pandas Badge](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Seaborn Badge](https://img.shields.io/badge/-Seaborn-black?style=flat&logo=seaborn&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 [![Tensorflow Badge](https://img.shields.io/badge/-Tensorflow-black?style=flat&logo=Tensorflow&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 [![Plotly Badge](https://img.shields.io/badge/-Plotly-black?style=flat&logo=Plotly&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 [![Anaconda Badge](https://img.shields.io/badge/-Anaconda-black?style=flat&logo=Anaconda&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
