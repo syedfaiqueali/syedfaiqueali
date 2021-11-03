@@ -33,7 +33,7 @@
 
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently learning **Data Analytics** & **Python-Django**<br>
+✔ I’m currently learning **Data Analytics** & **Image-Processing**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning **Artificial Neural Network**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
