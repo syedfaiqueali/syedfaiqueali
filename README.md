@@ -61,7 +61,6 @@
 [![Google Colab Badge](https://img.shields.io/badge/-GoogleColab-black?style=flat&logo=GoogleColab&logoColor=white&link=#)]()
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-black?style=flat&logo=Kaggle&logoColor=white&link=#)]()
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-black?style=flat&logo=Tableau&logoColor=white&link=#)]()
-[![Tableau Badge](https://img.shields.io/badge/-Tableau-black?style=flat&logo=Tableau&logoColor=white&link=#)]()
   
   
 <hr>
