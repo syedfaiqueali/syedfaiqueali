@@ -62,6 +62,7 @@
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-black?style=flat&logo=Kaggle&logoColor=white&link=#)]()
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-black?style=flat&logo=Tableau&logoColor=white&link=#)]()
 [![OpenCV Badge](https://img.shields.io/badge/-Opencv-black?style=flat&logo=Tableau&logoColor=white&link=#)]()
+[![Git Badge](https://img.shields.io/badge/-Git-black?style=flat&logo=Git&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
   
 <hr>
 <p align="center">
