@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Faique Ali</h1>
-<h3 align="center">iOS Developer | Data Science Enthusiast</h3>
+<h3 align="center">Software Engineer | iOS | SwiftUI | Flutter | AI and ML Enthusiast</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/faique-ali/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Faique" height="30" width="40" /></a>
 <a href="https://www.facebook.com/faiqsyedali/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Faique" height="30" width="40" /></a>
@@ -33,12 +33,12 @@
 
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently learning **Data Analytics** & **Image-Processing**<br>
+✔ I’m currently learning **Machine Learning** & **Image-Processing**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning **Artificial Neural Network**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact: I love to read non-fictional books and play checkers<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
+✔ Fun fact : *At The time of Stress coding, I use to be in half-sleeping mode*<br><br><br><br>
 
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
