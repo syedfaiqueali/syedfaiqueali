@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Faique Ali</h1>
-<h3 align="center">Software Engineer AI and ML Enthusiast| iOS | SwiftUI | Flutter </h3>
+<h3 align="center">Software Engineer | AI and ML Enthusiast| iOS | SwiftUI | Flutter </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/faique-ali/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Faique" height="30" width="40" /></a>
 <a href="https://www.facebook.com/faiqsyedali/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Faique" height="30" width="40" /></a>
