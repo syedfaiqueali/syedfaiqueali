@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Faique Ali</h1>
-<h3 align="center">Software Engineer | AI and ML Enthusiast | iOS | Flutter </h3>
+<h3 align="center">🚀 Passionate Software Engineer | Innovator | Problem Solver 🚀</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/faique-ali/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Faique" height="30" width="40" /></a>
 <a href="https://www.facebook.com/faiqsyedali/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Faique" height="30" width="40" /></a>
@@ -16,7 +16,7 @@
 
 <p align="center">
   <em>
-    This is ME, Faique Ali, a <b>graduate</b> from <a href="https://www.uok.edu.pk/"> <b>University Of Karachi</b></a>. <br>
+    This is ME, Faique, a <b>graduate</b> from <a href="https://www.uok.edu.pk/"> <b>University Of Karachi</b></a>. <br>
     An <b>iOS Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -26,7 +26,7 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faiqueali017&label=Profile%20views&color=0e75b6&style=flat" alt="Faique" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedfaiqueali&label=Profile%20views&color=0e75b6&style=flat" alt="Faique" /> </p>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
@@ -63,13 +63,12 @@
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-black?style=flat&logo=Tableau&logoColor=white&link=#)]()
 [![OpenCV Badge](https://img.shields.io/badge/-Opencv-black?style=flat&logo=Tableau&logoColor=white&link=#)]()
   
-  
 <hr>
 <p align="center">
-<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faiqueali017&show_icons=true&locale=en&layout=compact" alt="Faique" /></p>
+  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faiqueali017&show_icons=true&locale=en" alt="Faique" width="410" /></p>
-
- 
-
+<center>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedfaiqueali&show_icons=true&theme=default#gh-light-mode-only" alt="Faique"/>
+  </p>
+</center>
