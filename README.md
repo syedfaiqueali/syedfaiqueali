@@ -118,15 +118,6 @@ Looking for a **Senior AI & Full-Stack Developer** who can design, develop, and 
   <a href="https://www.linkedin.com/in/faique-ali/" target="_blank">LinkedIn</a> ·
   <a href="mailto:faiqueali017@gmail.com">Email</a>
 </p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedfaiqueali&show_icons=true&theme=default#gh-light-mode-only" alt="GitHub Stats" />
-</p>
-
 ---
 
 <sub><i>Keywords: LLM · Generative AI · RAG · LangChain · LlamaIndex · Chatbots · Voice AI · Computer Vision · Object Detection · YOLO · OpenCV · Python · FastAPI · Django · React · Next.js · Flutter · Full-Stack · AWS · Docker · CI/CD</i></sub>
